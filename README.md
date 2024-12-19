@@ -38,4 +38,4 @@ That's it, the extension is installed and it will automatically do what it has t
 
 ---
 
-Orange icon created by [Freepik - Flaticon](https://www.flaticon.com/free-icon/blueberry_4057335)
+Orange icon created by [Freepik - Flaticon](https://www.flaticon.com/free-icon/orange_6866499)
